@@ -5,7 +5,7 @@
 This midterm project was a challenging but valuable experience. I built a
 note-taking app using Node.js, Express, MongoDB, and EJS. The most important
 lesson I learned is that starting with authentication first was the right
-decision, as our instructor recommended.
+decision, as Carlos (our instructor) recommended.
 
 ## What I Learned
 
@@ -80,11 +80,13 @@ If I started over, I would:
 
 ## Tools I Used
 
-- **Class recordings and transcripts** — to review what the instructor
-  explained
+- **Class recordings and transcripts** — to review what Carlos explained
+  in class
 - **Official documentation** for Passport, Express, and Mongoose
 - **AI tools** — for clarifying concepts and finding typos in the code
-- **Postman** — for testing routes (learned from the instructor's example)
+- **Postman** — for sending test requests directly to the `/notes` and
+  `/register` endpoints while building them, before the front-end forms
+  were ready, learned from the instructor's example
 
 ## Conclusion
 
