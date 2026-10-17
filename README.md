@@ -52,35 +52,35 @@ Built with Node.js, Express, MongoDB, and EJS for my Software Development Bootca
 
 ```
 notes-app/
-├── config/
-│   └── connectionDB.js
-├── models/
-│   ├── User.js
-│   └── Note.js
-├── public/
-│   └── css/
-│       └── style.css
-├── routes/
-│   ├── auth.js
-│   └── notes.js
-├── views/
-│   ├── notes/
-│   │   ├── index.ejs
-│   │   ├── new.ejs
-│   │   └── edit.ejs
-│   └── partials/
-│       ├── header.ejs
-│       ├── footer.ejs
-│       ├── login.ejs
-│       └── register.ejs
-├── .env
-├── .env.example
-├── .gitignore
-├── index.js
-├── passportConfig.js
-├── package.json
-├── README.md
-└── REFLECTION.md
+📁 config/
+   📄 connectionDB.js
+📁 models/
+   📄 User.js
+   📄 Note.js
+📁 public/
+   📁 css/
+      📄 style.css
+📁 routes/
+   📄 auth.js
+   📄 notes.js
+📁 views/
+   📁 notes/
+      📄 index.ejs
+      📄 new.ejs
+      📄 edit.ejs
+   📁 partials/
+      📄 header.ejs
+      📄 footer.ejs
+      📄 login.ejs
+      📄 register.ejs
+📄 .env
+📄 .env.example
+📄 .gitignore
+📄 index.js
+📄 passportConfig.js
+📄 package.json
+📄 README.md
+📄 REFLECTION.md
 ```
 
 ## API Endpoints
